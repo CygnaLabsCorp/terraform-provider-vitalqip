@@ -23,10 +23,12 @@ Where the fields represent the following:
 
 Below are the available resources for the following objectTypes:
 
--   IPC Subnet (cygnalabs_ipc_subnet)
+-   QIP IPv4 Subnet (vitalqip_ipv4_subnet)
+-   QIP IPv6 Subnet (vitalqip_ipv6_subnet)
 
 ## Data Sources
 
 Below are the available BlueCat data sources:
 
--   IPC Subnet (cygnalabs_ipc_subnet)
+-   QIP IPv4 Subnet (vitalqip_ipv4_subnet)
+-   QIP IPv6 Subnet (vitalqip_ipv6_subnet)
