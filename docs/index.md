@@ -28,7 +28,7 @@ Below are the available resources for the following objectTypes:
 
 ## Data Sources
 
-Below are the available BlueCat data sources:
+Below are the available VitalQIP data sources:
 
 -   QIP IPv4 Subnet (vitalqip_ipv4_subnet)
 -   QIP IPv6 Subnet (vitalqip_ipv6_subnet)
