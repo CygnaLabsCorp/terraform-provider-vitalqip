@@ -97,7 +97,7 @@ func dataSourceIPv6SubnetRead(ctx context.Context, d *schema.ResourceData, m int
 		diags = append(diags, diag.Diagnostic{
 			Severity: diag.Error,
 			Summary:  "Getting QIP IPv6 Subnet Failed",
-			Detail:   fmt.Sprintf("Getting QIP IPv6 Subnet (%s) failed : %s", response.SubnetAddress, err),
+			Detail:   fmt.Sprintf("Getting QIP IPv6 Subnet failed : %s", err),
 		})
 		return diags
 	}
